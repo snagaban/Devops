@@ -3,3 +3,4 @@ TEXT= Hello world shiva abc
 echo "$TEXT"
 
 add path to the folder
+no i wont add
