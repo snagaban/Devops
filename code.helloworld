@@ -1,5 +1,3 @@
 #/!bin/bash
 TEXT= Hello world shiva abc
 echo "$TEXT"
-
-echo $PATH
